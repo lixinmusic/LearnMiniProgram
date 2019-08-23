@@ -6,4 +6,6 @@
 
    git commit -m "初始化项目"  //提交
 
-   
+   git remote add origin https://github.com/lixinmusic/LearnMiniProgram.git //关联远程仓库
+
+   git push -u origin master //把代码上传到github上
