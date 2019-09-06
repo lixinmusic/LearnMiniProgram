@@ -11,7 +11,10 @@
    git push -u origin master //把代码上传到github上
 
    
+   git add .   //添加到暂缓区
 
+   git commit -m "初始化项目"  //提交 
+  
    git tag 01_知识点01
 
    git log //查看有哪些提交
@@ -23,3 +26,12 @@
    git tag //这个可以查看上传tag的个数
 
    git push --tags //这个是push到远程仓库
+
+
+   
+   git clone 加地址  //把代码克隆下来
+
+   git checkout 01_知识点01 //这个就可以把代码显示为01_知识点01的代码
+
+
+   coderwhy
